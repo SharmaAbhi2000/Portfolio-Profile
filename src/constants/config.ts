@@ -66,7 +66,7 @@ export const config: TConfig = {
   sections: {
     about: {
       p: "Introduction",
-      h2: "Overview.",
+      h2: "",
       content: `Highly motivated and results-oriented System Administrator with 3+ years of experience in maintaining
 and troubleshooting various IT systems. Adept at configuring and deploying hardware and software solutions,
 ensuring system uptime and security. Proven ability to work independently and as part of a team to resolve
